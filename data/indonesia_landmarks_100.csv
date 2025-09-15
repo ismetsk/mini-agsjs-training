@@ -1,0 +1,99 @@
+name,type,province,latitude,longitude,Category,Region,Rating
+Monumen Nasional,Monument,DKI Jakarta,-6.175372,106.827148,Cultural,Java,5
+Borobudur,Temple,Jawa Tengah,-7.607874,110.203751,Cultural,Java,5
+Prambanan,Temple,DI Yogyakarta,-7.752020,110.491298,Cultural,Java,5
+Gunung Bromo,Mountain,Jawa Timur,-7.942493,112.953012,Natural,Java,4
+Raja Ampat,Islands,Papua Barat,-0.234600,130.507200,Natural,Maluku-Papua,5
+Danau Toba,Lake,Sumatra Utara,2.688956,98.869667,Natural,Sumatra,4
+Tanah Lot,Temple,Bali,-8.621722,115.086111,Cultural,Bali-Nusa Tenggara,4
+Jam Gadang,Clock Tower,Sumatra Barat,-0.303633,100.368995,Cultural,Sumatra,3
+Komodo National Park,National Park,Nusa Tenggara Timur,-8.543333,119.489441,Natural,Bali-Nusa Tenggara,5
+Masjid Istiqlal,Mosque,DKI Jakarta,-6.169777,106.830722,Cultural,Java,5
+Gedung Sate,Building,Jawa Barat,-6.902475,107.618782,Modern,Java,4
+Ampera Bridge,Bridge,Sumatra Selatan,-2.991108,104.756733,Modern,Sumatra,4
+Kraton Yogyakarta,Palace,DI Yogyakarta,-7.805577,110.364678,Cultural,Java,4
+Pantai Kuta,Beach,Bali,-8.717900,115.168100,Natural,Bali-Nusa Tenggara,4
+Gunung Rinjani,Mountain,Nusa Tenggara Barat,-8.411400,116.457600,Natural,Bali-Nusa Tenggara,4
+Benteng Rotterdam,Fort,Sulawesi Selatan,-5.135400,119.412400,Cultural,Sulawesi,3
+Jembatan Youtefa,Bridge,Papua,-2.591700,140.713200,Modern,Maluku-Papua,3
+Danau Sentani,Lake,Papua,-2.600000,140.566700,Natural,Maluku-Papua,4
+Gunung Merapi,Mountain,Jawa Tengah,-7.540000,110.446700,Natural,Java,4
+Pantai Parangtritis,Beach,DI Yogyakarta,-8.021900,110.328200,Natural,Java,3
+Gunung Krakatau,Volcano,Lampung,-6.102000,105.423000,Natural,Sumatra,5
+Pantai Losari,Beach,Sulawesi Selatan,-5.168900,119.412500,Natural,Sulawesi,3
+Pulau Weh,Island,Aceh,5.888300,95.316900,Natural,Sumatra,4
+Candi Mendut,Temple,Jawa Tengah,-7.604800,110.219600,Cultural,Java,3
+Malioboro Street,Street,DI Yogyakarta,-7.792800,110.365800,Cultural,Java,4
+Gunung Semeru,Mountain,Jawa Timur,-8.108000,112.922000,Natural,Java,4
+Wakatobi National Park,National Park,Sulawesi Tenggara,-5.316700,123.583300,Natural,Sulawesi,5
+Derawan Islands,Islands,Kalimantan Timur,2.283300,118.250000,Natural,Kalimantan,5
+Samosir Island,Island,Sumatra Utara,2.600000,98.850000,Natural,Sumatra,4
+Labuan Bajo,Town,Nusa Tenggara Timur,-8.496100,119.887700,Cultural,Bali-Nusa Tenggara,4
+Gunung Kerinci,Mountain,Sumatra Barat,-1.697000,101.264000,Natural,Sumatra,4
+Tana Toraja,Cultural Site,Sulawesi Selatan,-3.067000,119.833000,Cultural,Sulawesi,4
+Bunaken Marine Park,Marine Park,Sulawesi Utara,1.616700,124.833300,Natural,Sulawesi,5
+Pantai Pink,Beach,Nusa Tenggara Timur,-8.783300,118.617000,Natural,Bali-Nusa Tenggara,4
+Gunung Agung,Mountain,Bali,-8.342000,115.508000,Natural,Bali-Nusa Tenggara,4
+Benteng Marlborough,Fort,Bengkulu,-3.800000,102.266700,Cultural,Sumatra,3
+Pulau Belitung,Island,Kepulauan Bangka Belitung,-2.870000,107.970000,Natural,Sumatra,4
+Tugu Pahlawan,Monument,Jawa Timur,-7.245800,112.737800,Cultural,Java,4
+Gunung Lawu,Mountain,Jawa Tengah,-7.627000,111.200000,Natural,Java,3
+Pantai Sanur,Beach,Bali,-8.693000,115.262000,Natural,Bali-Nusa Tenggara,4
+Kawah Ijen,Volcano,Jawa Timur,-8.058000,114.242000,Natural,Java,4
+Gunung Sibayak,Volcano,Sumatra Utara,3.201000,98.518000,Natural,Sumatra,3
+Lake Maninjau,Lake,Sumatra Barat,-0.343000,100.202000,Natural,Sumatra,4
+Pantai Tanjung Tinggi,Beach,Kepulauan Bangka Belitung,-2.551000,107.764000,Natural,Sumatra,4
+Gunung Dieng,Volcanic Plateau,Jawa Tengah,-7.213000,109.920000,Natural,Java,3
+Pantai Nihiwatu,Beach,Nusa Tenggara Timur,-9.656000,119.235000,Natural,Bali-Nusa Tenggara,4
+Lake Poso,Lake,Sulawesi Tengah,-1.895000,120.640000,Natural,Sulawesi,3
+Pantai Ora,Beach,Maluku, -3.333000,129.500000,Natural,Maluku-Papua,4
+Gunung Bukit Barisan,Mountain,Sumatra Selatan,-4.300000,103.200000,Natural,Sumatra,3
+Pantai Gili Trawangan,Beach,Nusa Tenggara Barat,-8.351000,116.041000,Natural,Bali-Nusa Tenggara,4
+Gunung Kelimutu,Volcano,Nusa Tenggara Timur,-8.770000,121.820000,Natural,Bali-Nusa Tenggara,4
+Pulau Morotai,Island,Maluku Utara,2.050000,128.350000,Natural,Maluku-Papua,3
+Pantai Liang,Beach,Maluku,-3.700000,128.333000,Natural,Maluku-Papua,3
+Gunung Cartenz,Mountain,Papua,-4.083000,137.183000,Natural,Maluku-Papua,5
+Sentul International Circuit,Racetrack,Jawa Barat,-6.546000,106.866000,Modern,Java,3
+Pantai Batu Karas,Beach,Jawa Barat,-7.739000,108.490000,Natural,Java,3
+Gunung Slamet,Mountain,Jawa Tengah,-7.242000,109.209000,Natural,Java,4
+Pantai Balekambang,Beach,Jawa Timur,-8.400000,112.535000,Natural,Java,3
+Gunung Sumbing,Mountain,Jawa Tengah,-7.385000,110.070000,Natural,Java,3
+Pantai Pandawa,Beach,Bali,-8.848000,115.180000,Natural,Bali-Nusa Tenggara,4
+Gunung Sindoro,Mountain,Jawa Tengah,-7.300000,109.996000,Natural,Java,3
+Pantai Drini,Beach,DI Yogyakarta,-8.135000,110.605000,Natural,Java,3
+Gunung Batok,Mountain,Jawa Timur,-7.913000,112.952000,Natural,Java,3
+Pantai Ngliyep,Beach,Jawa Timur,-8.394000,112.479000,Natural,Java,3
+Gunung Gede,Mountain,Jawa Barat,-6.778000,106.985000,Natural,Java,4
+Pantai Pelabuhan Ratu,Beach,Jawa Barat,-6.980000,106.554000,Natural,Java,3
+Gunung Pangrango,Mountain,Jawa Barat,-6.770000,106.985000,Natural,Java,3
+Pantai Sawarna,Beach,Banten,-6.950000,106.320000,Natural,Java,3
+Gunung Ciremai,Mountain,Jawa Barat,-6.891000,108.406000,Natural,Java,3
+Pantai Karang Bolong,Beach,Banten,-6.300000,106.033000,Natural,Java,3
+Gunung Papandayan,Mountain,Jawa Barat,-7.320000,107.730000,Natural,Java,3
+Pantai Pangandaran,Beach,Jawa Barat,-7.700000,108.650000,Natural,Java,4
+Gunung Galunggung,Volcano,Jawa Barat,-7.250000,108.050000,Natural,Java,3
+Pantai Citepus,Beach,Jawa Barat,-6.983000,106.563000,Natural,Java,2
+Gunung Tangkuban Perahu,Volcano,Jawa Barat,-6.759000,107.610000,Natural,Java,4
+Pantai Karanghawu,Beach,Jawa Barat,-6.998000,106.553000,Natural,Java,2
+Gunung Talang,Volcano,Sumatra Barat,-0.994000,100.679000,Natural,Sumatra,3
+Pantai Air Manis,Beach,Sumatra Barat,-0.992000,100.353000,Natural,Sumatra,3
+Gunung Singgalang,Mountain,Sumatra Barat,-0.399000,100.319000,Natural,Sumatra,3
+Pantai Padang,Beach,Sumatra Barat,-0.950000,100.353000,Natural,Sumatra,3
+Gunung Dempo,Mountain,Sumatra Selatan,-4.019000,103.130000,Natural,Sumatra,3
+Pantai Pasir Putih,Beach,Lampung,-5.540000,105.370000,Natural,Sumatra,3
+Gunung Leuser,National Park,Aceh,3.600000,97.200000,Natural,Sumatra,5
+Pantai Lampuuk,Beach,Aceh,5.550000,95.230000,Natural,Sumatra,3
+Gunung Seulawah Agam,Mountain,Aceh,5.400000,95.650000,Natural,Sumatra,3
+Pantai Iboih,Beach,Aceh,5.888000,95.316000,Natural,Sumatra,3
+Gunung Latimojong,Mountain,Sulawesi Selatan,-3.400000,120.000000,Natural,Sulawesi,3
+Pantai Bira,Beach,Sulawesi Selatan,-5.600000,120.467000,Natural,Sulawesi,3
+Gunung Lokon,Volcano,Sulawesi Utara,1.358000,124.792000,Natural,Sulawesi,3
+Pantai Likupang,Beach,Sulawesi Utara,1.667000,125.050000,Natural,Sulawesi,3
+Gunung Soputan,Volcano,Sulawesi Utara,1.108000,124.729000,Natural,Sulawesi,3
+Pantai Tumbak,Beach,Sulawesi Utara,0.783000,124.683000,Natural,Sulawesi,2
+Gunung Tambora,Volcano,Nusa Tenggara Barat,-8.247000,117.993000,Natural,Bali-Nusa Tenggara,5
+Pantai Senggigi,Beach,Nusa Tenggara Barat,-8.492000,116.041000,Natural,Bali-Nusa Tenggara,4
+Gunung Alor,Mountain,Nusa Tenggara Timur,-8.216000,124.467000,Natural,Bali-Nusa Tenggara,3
+Pantai Lasiana,Beach,Nusa Tenggara Timur,-10.167000,123.583000,Natural,Bali-Nusa Tenggara,2
+Gunung Egon,Volcano,Nusa Tenggara Timur,-8.683000,122.200000,Natural,Bali-Nusa Tenggara,3
+Pantai Kupang,Beach,Nusa Tenggara Timur,-10.178000,123.583000,Natural,Bali-Nusa Tenggara,2
