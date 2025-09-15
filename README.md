@@ -1,3 +1,3 @@
-# Mini ArcGIS Map SDK For Javascript Training
+# ArcGIS Map SDK For Javascript Mini Training
 
 Find code snippets in **snippets/CDN** directory
